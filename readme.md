@@ -1,7 +1,12 @@
 # Overview
 
 This half-course covers some commonly used designs and empirical research in
-applied microeconomics and related fields. Good empirical research has three pillars:
+applied microeconomics and related fields. For Princeton students, homework and
+solutions to it will be posted on Canvas. Official course description is at the
+[Registrar's
+website](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=015253).
+
+Good empirical research has three pillars:
 
 1. Measurement. One can't really answer a policy question (what's the effect of
    intervention A) or a science question (what's the elasticity of demand)
@@ -41,3 +46,7 @@ least after class.
 
 I'll give weekly homework, which will be a mix of empirical exercises and
 critical summaries of assigned readings.
+
+# Errors
+
+Please report typos and errors in the lecture notes by opening an issue.
