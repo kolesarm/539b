@@ -36,16 +36,18 @@ recognize those settings.
 
 # Notes
 
-I provide detailed lecture notes with references. The goal of the lecture notes
-is to serve as a reference for your own later research, and as such, they aim to
-be self-contained and detailed. In lectures, we won't have time to dive into all
-the details, so it's a good idea to read ideally read them ahead of time, or at
-least after class.
+I provide detailed lecture notes with references. Sometimes I will provide
+slides. The goal of the slides is just to streamline classroom discussion; they
+are incomplete. In contrast, the goal of the lecture notes is to serve as a
+reference for your own later research, and as such, they aim to be
+self-contained and detailed. In lectures (and slides), we won't have time to
+dive into all the details, so it's a good idea to read the notes ahead of time,
+or at least after class.
 
 # Homework
 
 I'll give weekly homework, which will be a mix of empirical exercises and
-critical summaries of assigned readings.
+critical summaries of assigned readings. They will be posted on Canvas.
 
 # Topics
 
@@ -54,8 +56,9 @@ critical summaries of assigned readings.
    not linear / treatment effects are heterogeneous? When is the estimand
    causal? Model-based versus design-based identification and inference. What
    variable to cluster on? [Notes](2024s_02_ols.pdf)
-3. Small-sample issues in linear regression: when do usual robust standard
-   errors mislead and what to do instead. [Notes](2024s_03_ehw.pdf)
+3. Small-sample issues and large data issues in linear regression: when do usual
+   robust standard errors mislead and what to do instead.
+   [Notes](2024s_03_ehw.pdf)
 4. Instrumental variables. What does IV estimate when treatment effects are
    heterogeneous? How does inference change under heterogeneity? How to detect
    weak instruments and what, if anything, to do about them. [Notes](2024s_04_iv.pdf)
