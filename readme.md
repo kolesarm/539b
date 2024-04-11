@@ -47,6 +47,23 @@ least after class.
 I'll give weekly homework, which will be a mix of empirical exercises and
 critical summaries of assigned readings.
 
+# Topics
+
+1. The bootstrap: when does it work, when does it fail? [Notes](2024s_01_bootstrap.pdf)
+2. Linear regression. What does regression estimate when regresison function is
+   not linear / treatment effects are heterogeneous? When is the estimand
+   causal? Model-based versus design-based identification and inference. What
+   variable to cluster on? [Notes](2024s_02_ols.pdf)
+3. Small-sample issues in linear regression: when do usual robust standard
+   errors mislead and what to do instead.
+4. Instrumental variables. What does IV estimate when treatment effects are
+   heterogeneous? How does inference change under heterogeneity? How to detect
+   weak instruments and what, if anything, to do about them.
+5. Many instruments and judge designs.
+6. Shift-share instruments
+7. Regression discontinuity. Standard vs bias-aware approaches to inference.
+
+
 # Errors
 
 Please report typos and errors in the lecture notes by opening an issue.
