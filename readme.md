@@ -55,13 +55,15 @@ critical summaries of assigned readings.
    causal? Model-based versus design-based identification and inference. What
    variable to cluster on? [Notes](2024s_02_ols.pdf)
 3. Small-sample issues in linear regression: when do usual robust standard
-   errors mislead and what to do instead.
+   errors mislead and what to do instead. [Notes](2024s_03_ehw.pdf)
 4. Instrumental variables. What does IV estimate when treatment effects are
    heterogeneous? How does inference change under heterogeneity? How to detect
-   weak instruments and what, if anything, to do about them.
-5. Many instruments and judge designs.
-6. Shift-share instruments
+   weak instruments and what, if anything, to do about them. [Notes](2024s_04_iv.pdf)
+5. Many instruments and judge designs. [Notes](2024s_05_manyiv.pdf)
+   [Slides](2024s_05_manyiv_slides.pdf)
+6. Shift-share instruments [Slides](2024s_06_ssiv_slides.pdf)
 7. Regression discontinuity. Standard vs bias-aware approaches to inference.
+   [Notes](2024s_06_rd.pdf) [Slides](2024s_06_rd_slides.pdf)
 
 
 # Errors
