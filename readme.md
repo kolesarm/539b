@@ -73,6 +73,7 @@ critical summaries of assigned readings. They will be posted on Canvas.
 9. Simulated method of moments. Indirect inference, simulated maximum
    likelihood, importance sampling, and implementation issues.
    [Notes](2024s_09_simulation.pdf)
+10. Synthetic controls [Notes](2024s_10_synthetic.pdf)
 
 
 # Errors
