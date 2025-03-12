@@ -51,7 +51,7 @@ critical summaries of assigned readings. They will be posted on Canvas.
 
 # Topics
 
-1. The bootstrap: when does it work, when does it fail? [Notes](2024s_01_bootstrap.pdf)
+1. The bootstrap: when does it work, when does it fail? [Notes](2025s_01_bootstrap.pdf)
 2. Linear regression. What does regression estimate when regresison function is
    not linear / treatment effects are heterogeneous? When is the estimand
    causal? Model-based versus design-based identification and inference. What
