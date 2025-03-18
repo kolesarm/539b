@@ -55,7 +55,7 @@ critical summaries of assigned readings. They will be posted on Canvas.
 2. Linear regression. What does regression estimate when regresison function is
    not linear / treatment effects are heterogeneous? When is the estimand
    causal? Model-based versus design-based identification and inference. What
-   variable to cluster on? [Notes](2024s_02_ols.pdf)
+   variable to cluster on? [Notes](2025s_02_ols.pdf)
 3. Small-sample issues and large data issues in linear regression: when do usual
    robust standard errors mislead and what to do instead.
    [Notes](2024s_03_ehw.pdf)
