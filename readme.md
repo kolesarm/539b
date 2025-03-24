@@ -58,7 +58,7 @@ critical summaries of assigned readings. They will be posted on Canvas.
    variable to cluster on? [Notes](2025s_02_ols.pdf)
 3. Small-sample issues and large data issues in linear regression: when do usual
    robust standard errors mislead and what to do instead.
-   [Notes](2024s_03_ehw.pdf)
+   [Notes](2025s_03_ehw.pdf) [Slides](2025s_03_ehw_slides.pdf)
 4. Instrumental variables. What does IV estimate when treatment effects are
    heterogeneous? How does inference change under heterogeneity? How to detect
    weak instruments and what, if anything, to do about them. [Notes](2024s_04_iv.pdf)
