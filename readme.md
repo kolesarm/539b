@@ -61,7 +61,7 @@ critical summaries of assigned readings. They will be posted on Canvas.
    [Notes](2025s_03_ehw.pdf) [Slides](2025s_03_ehw_slides.pdf)
 4. Instrumental variables. What does IV estimate when treatment effects are
    heterogeneous? How does inference change under heterogeneity? How to detect
-   weak instruments and what, if anything, to do about them. [Notes](2024s_04_iv.pdf)
+   weak instruments and what, if anything, to do about them. [Notes](2024s_04_iv.pdf) [Slides](2025s_04_iv_slides.pdf)
 5. Many instruments and judge designs. [Notes](2024s_05_manyiv.pdf)
    [Slides](2024s_05_manyiv_slides.pdf)
 6. Shift-share instruments [Slides](2024s_06_ssiv_slides.pdf)
