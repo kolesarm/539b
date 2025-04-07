@@ -64,7 +64,7 @@ critical summaries of assigned readings. They will be posted on Canvas.
    weak instruments and what, if anything, to do about them. [Notes](2024s_04_iv.pdf) [Slides](2025s_04_iv_slides.pdf)
 5. Many instruments and judge designs. [Notes](2024s_05_manyiv.pdf)
    [Slides](2025s_05_manyiv_slides.pdf)
-6. Shift-share instruments [Slides](2024s_06_ssiv_slides.pdf)
+6. Shift-share instruments [Slides](2025s_06_ssiv_slides.pdf)
 7. Regression discontinuity. Standard vs bias-aware approaches to inference.
    [Notes](2024s_07_rd.pdf) [Slides](2024s_07_rd_slides.pdf)
 8. Differences in differences and event studies. Changes-in-Changes, conditional
