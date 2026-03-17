@@ -4,7 +4,7 @@ This half-course covers some commonly used designs and empirical research in
 applied microeconomics and related fields. For Princeton students, homework and
 solutions to it will be posted on Canvas. Official course description is at the
 [Registrar's
-website](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=015253).
+website](https://registrar.princeton.edu/course-offerings/course-details?term=1264&courseid=015253).
 
 Good empirical research has three pillars:
 
@@ -52,8 +52,8 @@ critical summaries of assigned readings. They will be posted on Canvas.
 # Topics
 
 1. The bootstrap: when does it work, when does it fail? [Notes](2026s_01_bootstrap.pdf)
-2. Linear regression. What does regression estimate when regresison function is
-   not linear / treatment effects are heterogeneous? When is the estimand
+2. Linear regression. What does regression estimate when the regression function
+   is not linear / treatment effects are heterogeneous? When is the estimand
    causal? Model-based versus design-based identification and inference. What
    variable to cluster on? [Notes](2025s_02_ols.pdf)
 3. Small-sample issues and large data issues in linear regression: when do usual
