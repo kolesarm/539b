@@ -54,7 +54,8 @@ critical summaries of assigned readings. They will be posted on Canvas.
 
 # Topics
 
-1. The bootstrap: when does it work, when does it fail? [Notes](2026s_01_bootstrap.pdf)
+1. The bootstrap: when does it work, when does it fail?
+   [Notes](2026s_01_bootstrap.pdf)
 2. Linear regression. What does regression estimate when the regression function
    is not linear / treatment effects are heterogeneous? When is the estimand
    causal? Model-based versus design-based identification and inference. What
@@ -66,7 +67,7 @@ critical summaries of assigned readings. They will be posted on Canvas.
    heterogeneous? How does inference change under heterogeneity? How to detect
    weak instruments and what, if anything, to do about them.
    [Notes](2024s_04_iv.pdf) [Slides](2026s_04_iv_slides.pdf)
-5. Many instruments and judge designs. [Notes](2024s_05_manyiv.pdf)
+5. Leniency IV and many instruments. [Notes](2024s_05_manyiv.pdf)
    [Slides](2026s_05_manyiv_slides.pdf)
 6. Shift-share instruments [Slides](2025s_06_ssiv_slides.pdf)
 7. Regression discontinuity. Standard vs bias-aware approaches to inference.
