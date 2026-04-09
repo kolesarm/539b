@@ -69,7 +69,7 @@ critical summaries of assigned readings. They will be posted on Canvas.
    [Notes](2024s_04_iv.pdf) [Slides](2026s_04_iv_slides.pdf)
 5. Leniency IV and many instruments. [Notes](2024s_05_manyiv.pdf)
    [Slides](2026s_05_manyiv_slides.pdf)
-6. Shift-share instruments [Slides](2025s_06_ssiv_slides.pdf)
+6. Shift-share instruments [Slides](2026s_06_ssiv_slides.pdf)
 7. Regression discontinuity. Standard vs bias-aware approaches to inference.
    [Notes](2025s_07_rd.pdf) [Slides](2025s_07_rd_slides.pdf)
 8. Differences in differences and event studies. Changes-in-Changes, conditional
