@@ -79,7 +79,7 @@ critical summaries of assigned readings. They will be posted on Canvas.
    likelihood, importance sampling, and implementation issues.
    [Notes](2026s_09_simulation.pdf)
 10. Synthetic controls [Notes](2024s_10_synthetic.pdf)
-11. Double machine learning [Slides](2025s_11_doubly_robust_slides.pdf)
+11. Double machine learning [Slides](2026s_11_doubly_robust_slides.pdf)
 
 
 # Errors
